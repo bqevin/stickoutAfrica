@@ -4,7 +4,7 @@
 
 .header
 {
-	background: #212A3F;
+	background: rgba(218, 142, 28, 0.58);
 	height: 60px;
 	position: fixed;
 	width: 100%;
@@ -13,7 +13,7 @@
 }
 .logo
 {
-	color: #fa3447;
+	color: #fff;
 	font-weight: 100;
 	font-size: 30px;
 	padding: 0px !important;
@@ -61,7 +61,7 @@
 		background-size: cover;
 		color: white;
 		cursor: default;
-		padding: 180px 0 120px;
+		padding: 430px 0 120px;
 		text-align: center;
 		width: 100%;
 		float: left;
