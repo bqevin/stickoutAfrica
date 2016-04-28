@@ -4,13 +4,14 @@
 
 .header
 {
-	background: rgba(218, 142, 28, 0.58);
+	background: rgba(138, 184, 57, 0.79);
 	height: 60px;
 	position: fixed;
 	width: 100%;
 	z-index:9999;
 
 }
+.deep{background: rgba(138, 184, 57, 1) !important;}
 .logo
 {
 	color: #fff;
@@ -35,7 +36,7 @@
 	font-weight:500;
 	font-family: 'Poppins', sans-serif;
 	line-height: 29px;
-	background-color: #212A3F;
+	background-color: #8ab839;
 	z-index:999;
 	
 }
